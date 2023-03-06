@@ -50,6 +50,25 @@ Status: In progress
 
 Notes: This task may require input and feedback from the marketing team.
 
+## Task Title: Integrate Google Analytics code into the website to track website performance and user behavior.
+User Story: "As a website owner, I want to track website performance and user behavior using Google Analytics so that I can make data-driven decisions to improve the website"
+
+Description: The task involves integrating the Google Analytics tracking code into the website's pages so that it can start tracking user behavior and website performance.
+
+Acceptance Criteria: Google Analytics tracking code is integrated into the website The code is inserted in the correct location (header or footer) The code is properly configured to track relevant data points The tracking is verified to be working by checking the Google Analytics dashboard
+
+Dependencies: The website needs to be live and accessible for the Google Analytics code to start tracking data.
+
+Effort Estimate: 4 hours
+
+Assigned To: Suman, the web developer
+
+Priority: High
+
+Status: Not Started
+
+Notes: None yet
+
 
 
 

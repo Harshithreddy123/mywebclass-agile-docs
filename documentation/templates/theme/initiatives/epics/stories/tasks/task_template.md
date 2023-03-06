@@ -26,7 +26,7 @@ Description: Update the payment module to include additional payment options suc
 
 Effort Estimate: 8 hours
 
-Assigned To: Jane
+Assigned To: Harshith
 
 Priority: High
 
@@ -42,7 +42,7 @@ Description: Review the current product catalog and update it with new products,
 
 Effort Estimate: 12 hours
 
-Assigned To: John
+Assigned To: Harshith
 
 Priority: Medium
 

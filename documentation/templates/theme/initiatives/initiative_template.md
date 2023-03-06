@@ -10,43 +10,41 @@ Description: The Customer Loyalty Program is an initiative designed to incentivi
  
 Scope: The initiative will focus on developing and implementing a comprehensive loyalty program for our customers. This includes creating the program's structure, benefits, and rewards, as well as establishing the necessary systems and processes to manage and track member activity.
 
-Outcomes: 
+* Outcomes: 
  1. Increased customer retention rates by 20%
  2. A 10% increase in customer referrals and word-of-mouth marketing
  3. A 5% increase in revenue from repeat purchases
  4. A 15% increase in customer satisfaction and engagement
 
-Deliverables:
-Customer Loyalty Program structure and benefits plan
-Implementation plan and timeline
-Loyalty program software and tools
-Member communications and marketing materials
-Progress reports and program performance metrics
+* Deliverables:
+1. Customer Loyalty Program structure and benefits plan
+2. Implementation plan and timeline
+3. Loyalty program software and tools
 
-Milestones:
-Program design and planning completed (Month 1)
-Loyalty program software development and testing completed (Months 2-4)
-Program launch and initial marketing campaign (Month 5)
-Program evaluation and refinement (Ongoing)
-Constraints: The initiative must operate within the company's existing budget and resources. The loyalty program must also comply with all relevant laws and regulations.
+* Milestones:
+1. Program design and planning completed (Month 1)
+2. Loyalty program software development and testing completed (Months 2-4)
+3. Program launch and initial marketing campaign (Month 5)
+4. Program evaluation and refinement (Ongoing)
 
-Assumptions:
-Customers will be receptive to the loyalty program and see value in the benefits offered
-The loyalty program will be easy to use and manage for both customers and company staff
-Member data will be kept secure and protected
+* Constraints: The initiative must operate within the company's existing budget and resources. The loyalty program must also comply with all relevant laws and regulations.
 
-Risks:
-Low customer adoption or engagement with the program
-Technical issues or system failures with loyalty program software
-Negative feedback or criticism from customers or industry groups
-Increased competition from other loyalty programs or marketing initiatives
-Mitigation strategies for these risks will include regular program evaluation and refinement, effective communication with customers, and ongoing market research and analysis.
+* Assumptions:
+1. Customers will be receptive to the loyalty program and see value in the benefits offered
+2. The loyalty program will be easy to use and manage for both customers and company staff
+3. Member data will be kept secure and protected
 
-Dependencies: 
+* Risks:
+1. Low customer adoption or engagement with the program
+2. Technical issues or system failures with loyalty program software
+3. Negative feedback or criticism from customers or industry groups
+4. Increased competition from other loyalty programs or marketing initiatives
+5. Mitigation strategies for these risks will include regular program evaluation and refinement, effective communication with customers, and ongoing market research and analysis.
+
+* Dependencies: 
 The success of the initiative is dependent on the support and participation of both customers and company staff. We may also rely on third-party vendors for the development and implementation of loyalty program software.
 
-Team:
-
+* Team:
 Project Manager: Responsible for overseeing the initiative and ensuring it meets its goals and objectives.
 Marketing Manager: Responsible for creating and executing the loyalty program's marketing and communication strategy.
 IT Developer: Responsible for designing and developing the loyalty program software.

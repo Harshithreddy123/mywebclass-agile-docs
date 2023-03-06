@@ -2,19 +2,19 @@ Title of the Initiative: Customer Loyalty Program
 
 Description: The Customer Loyalty Program is an initiative designed to incentivize and reward our most loyal customers for their continued business with our company. The program will offer exclusive benefits and perks to members, encouraging them to make repeat purchases and promote our brand to others.
 
-Goals:
-Increase customer retention and loyalty
-Boost customer satisfaction and engagement
-Generate additional revenue through repeat purchases and referrals
-Expand our customer base through word-of-mouth marketing
+* Goals:
+  1. Increase customer retention and loyalty
+  2. Boost customer satisfaction and engagement
+  3. Generate additional revenue through repeat purchases and referrals
+  4. Expand our customer base through word-of-mouth marketing
+ 
 Scope: The initiative will focus on developing and implementing a comprehensive loyalty program for our customers. This includes creating the program's structure, benefits, and rewards, as well as establishing the necessary systems and processes to manage and track member activity.
 
 Outcomes: 
-We expect the initiative to result in:
-Increased customer retention rates by 20%
-A 10% increase in customer referrals and word-of-mouth marketing
-A 5% increase in revenue from repeat purchases
-A 15% increase in customer satisfaction and engagement
+ 1. Increased customer retention rates by 20%
+ 2. A 10% increase in customer referrals and word-of-mouth marketing
+ 3. A 5% increase in revenue from repeat purchases
+ 4. A 15% increase in customer satisfaction and engagement
 
 Deliverables:
 Customer Loyalty Program structure and benefits plan
